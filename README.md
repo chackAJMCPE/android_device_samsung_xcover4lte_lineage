@@ -1,1 +1,1 @@
-# adroid_device_7570-common_lineage
+THIS WASN'T TESTED.
