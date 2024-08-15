@@ -6,8 +6,8 @@ set -e
 
 # Required!
 VENDOR=samsung
-DEVICE_COMMON=universal7570-common
-DEVICE="on5xelte on5xelte"
+DEVICE_COMMON=xcover4lte
+DEVICE="xcover4lte"
 
 # Load extractutils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
